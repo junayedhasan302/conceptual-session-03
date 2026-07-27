@@ -1,0 +1,12 @@
+Type B — Students Will Solve
+1. Given a string, print it in both uppercase and lowercase using the appropriate string methods.
+2. Given a string with leading and trailing spaces, print its length before trimming and after trimming to show the
+difference.
+3. Use slice() to extract and print the first three characters and the last three characters of a given string.
+4. Reverse a given string manually using a for loop (without using split/reverse/join).
+5. Create an object representing a product with name, price, and quantity, then update the price using bracket notation and
+print the updated object.
+6. Given an object, use the delete operator to remove one of its properties and print the object before and after deletion.
+7. Write a program that loops through an object representing a person's details using a for...in loop and prints each key
+alongside its value.
+8. Given a sentence (string), count and print how many times a specific character appears in it.
